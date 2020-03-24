@@ -32,6 +32,16 @@ Decide which days you'll take your Hawaii vacation and then perform analysis on 
 Return a JSON list of Temperature Observations (tobs) for the previous year.
   d. '/api/v1.0/<start>' and '/api/v1.0/<start>/<end>' - Return a JSON list of the minimum temperature, the average temperature, and the max temperature for a given start or start-end range.
 
+## Output
+
+1. Bar chart showing the last 12 months of particiaption data
+![bar1](barplot1.png)
+
+2. Histogram showing observables from tmost active stations - The most active station is WAIHEE 837.5, HI US with 2772 records.
+![histogram](histogram1.png)
+
+3. Bar chart for average temperature in Hawaii over my designated vacation dates. Used the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
+![bar2](tripavgtempplot.png)
 
 ## Disclaimer
 Thisproject was published for educational purposes only. 
