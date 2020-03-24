@@ -1,26 +1,17 @@
-# sqlalchemy-challenge
+# SQLAlchemy Challenge - Surfs Up!
 
-SQLAlchemy Homework - Surfs Up!
+## Perform climate analysis and tehn design a Flask API based on the queries that you have just developed.
 
-Before You Begin
-
-
-Create a new repository for this project called sqlalchemy-challenge. Do not add this homework to an existing repository.
-
-
-Clone the new repository to your computer.
-
-
-Add your Jupyter notebook and app.py to this folder. These will be the main scripts to run for analysis.
-
-
-Push the above changes to GitHub or GitLab.
+## Breakdown of Tasks
+1. Create engine using SQLAlchemy to read sqlite file with weather data.
+2. Use automap_base() to map classes.
+3. Create session to connect to sqlite.
+4. Decide which days you'll take your vacation and save them into variables.
+5. Use pandas and SQLAlchemy to query weather data within that date range.
+6. 
 
 
 
-Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
-
-Step 1 - Climate Analysis and Exploration
 To begin, use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 
