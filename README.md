@@ -47,11 +47,11 @@ The average temperature over my chosen dates is 74 degress farenheit with the hi
 ![bar2](tripavgtempplot.png)
 
 2. Bar chart showing the last 12 months of particiaption data
-##
+###
 ![bar1](barplot1.png)
 
 3. Histogram showing observables from most active stations - The most active station is WAIHEE 837.5, HI US with 2772 records.
-##
+###
 ![histogram](histogram1.png)
 ## Disclaimer
 Thisproject was published for educational purposes only. 
