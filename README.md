@@ -49,6 +49,7 @@ Return a JSON list of Temperature Observations (tobs) for the previous year.
 
 3. Bar chart for average temperature in Hawaii over my designated vacation dates. Used the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
 The average temperature over my chosen dates is 74 degress farenheit with the historical low at 67 degrees and historical high at 80 degrees.
+###
 ![bar2](tripavgtempplot.png)
 
 ## Disclaimer
