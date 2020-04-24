@@ -41,17 +41,18 @@ Return a JSON list of Temperature Observations (tobs) for the previous year.
 
 ## Output/Conclusion
 
-1. Bar chart showing the last 12 months of particiaption data
-![bar1](barplot1.png)
-
-2. Histogram showing observables from most active stations - The most active station is WAIHEE 837.5, HI US with 2772 records.
-![histogram](histogram1.png)
-
-3. Bar chart for average temperature in Hawaii over my designated vacation dates. Used the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
+1. Bar chart for average temperature in Hawaii over my designated vacation dates. Used the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
 The average temperature over my chosen dates is 74 degress farenheit with the historical low at 67 degrees and historical high at 80 degrees.
 ###
 ![bar2](tripavgtempplot.png)
 
+2. Bar chart showing the last 12 months of particiaption data
+##
+![bar1](barplot1.png)
+
+3. Histogram showing observables from most active stations - The most active station is WAIHEE 837.5, HI US with 2772 records.
+##
+![histogram](histogram1.png)
 ## Disclaimer
 Thisproject was published for educational purposes only. 
 Copyright
